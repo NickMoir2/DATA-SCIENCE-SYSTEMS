@@ -1,0 +1,2 @@
+Link to JSON datafile:
+https://jsonplaceholder.typicode.com/posts
